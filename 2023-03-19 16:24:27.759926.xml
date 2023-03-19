@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding='UTF-8'?>
+<harvester>
+   login.facebook.com/login.php
+   <url>      <param>------WebKitFormBoundary2nHU383OzASMSBYt</param>
+   </url>
+   <url>      <param>------WebKitFormBoundarydifQUKsnRmHBxoCf</param>
+   </url>
+   <url>      <param>------WebKitFormBoundary1lCytYIxLBLiEbQo</param>
+   </url>
+   <url>      <param>------WebKitFormBoundarycBD0QADTbBswA0D0</param>
+   </url>
+   <url>      <param>------WebKitFormBoundaryEfZGLxZ5dZKowpez</param>
+   </url>
+   <url>      <param>------WebKitFormBoundarymfJdoptAipOML2l5</param>
+   </url>
+   <url>      <param>------WebKitFormBoundary30pcrXUuxBfQYCJu</param>
+   </url>
+   <url>      <param>------WebKitFormBoundary1Z9bhIIalE8LH7MR</param>
+   </url>
+   <url>      <param>local_storage[Session]=20</param>
+      <param>local_storage[hb_timestamp]=13</param>
+      <param>local_storage[signal_flush_timestamp]=13</param>
+      <param>session_storage[TabId]=6</param>
+      <param>session_storage[sp_pi]=216</param>
+      <param>logtime=0</param>
+      <param>__user=0</param>
+      <param>__a=1</param>
+      <param>__dyn=7xe6E5aQ1PyUbFuC1swgE98nwgU29zEdEc8uwdK0lW4o3Bw5VCwjE3awbG782Cw8G1Qw5MKdwnU1oU884y0lW0ny0RE2Jw8W0iW0lK3qaw4kwbS1Lw4Cw</param>
+      <param>__csr=</param>
+      <param>__req=3</param>
+      <param>__hs=19435.BP:DEFAULT.2.0..0.0</param>
+      <param>dpr=1</param>
+      <param>__ccg=EXCELLENT</param>
+      <param>__rev=1007137138</param>
+      <param>__s=09n20f:icmigu:h9kmh7</param>
+      <param>__hsi=7212339768188743753</param>
+      <param>__comet_req=0</param>
+      <param>lsd=AVrz206cs18</param>
+      <param>jazoest=2858</param>
+      <param>__spin_r=1007137138</param>
+      <param>__spin_b=trunk</param>
+      <param>__spin_t=1679253710</param>
+   </url>
+   <url>      <param>------WebKitFormBoundaryRCmdEnlQWNRzAONo</param>
+   </url>
+</harvester>
